@@ -1,10 +1,10 @@
 # Photo to G-code
 
-Name of the software	draw2cad
+Name of the software:	draw2cad
 
-Developer's name	Rishabh Bajpai
+Developer's name:	Rishabh Bajpai
 
-Version			v2.0
+Version:			v2.0
 
 
 This is a complete tool for 
