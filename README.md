@@ -38,6 +38,7 @@ How to use
 	18.Select method on vectorisation from the menu list
 	19.Click on G-code button to save it on the hard disk
 	20.Enjoy!!!
+	21.See Photos in 'Photos' folder
 
 
 Compatibility details
