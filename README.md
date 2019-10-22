@@ -1,11 +1,14 @@
 # Photo to G-code
 
 Name of the software	draw2cad
+
 Developer's name	Rishabh Bajpai
+
 Version			v2.0
 
 
 This is a complete tool for 
+
 	1. Dimension extraction from engineering file
 	2. Noise cancellation
 	3. Skeletonisation
@@ -13,7 +16,7 @@ This is a complete tool for
 	5. G-code generation (currently only for milling) from an image of engineering drawing
 
 
-#How to use
+How to use
 
 	1. Open source file folder "draw2cad"
 	2. Open "draw2cad.m" in Matlab
@@ -37,16 +40,17 @@ This is a complete tool for
 	20.Enjoy!!!
 
 
-#compatibility details
+Compatibility details
 
 	1. Matlab 2016, *64 bit
 	2. Resolution 1920*1080
 	3. ED from SolidWorks (the software will perfectly work on any ED, but currently it is made for SolidWorks only)
 
-#Limited features
+Limited features
 
 	Some features are kept limited to improve the performance, for enabling these feature, more computations are required
 	1. highly complex ED
 
-#Copywrite issue
+Copywrite issue
+
 	The software is only for education/research purpose, it is not allowed to modify, add or delete any files for any other purpose
